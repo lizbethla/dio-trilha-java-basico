@@ -26,8 +26,8 @@ public class IPhone implements Reproductor, Navegador, Telefone {
     }
 
     @Override
-    public void actualizarPagina() {
-        System.out.println("Actualizar Pagina");
+    public void atualizarPagina() {
+        System.out.println("Atualizar Pagina");
     }
 
     @Override

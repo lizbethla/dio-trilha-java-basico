@@ -15,7 +15,7 @@ public class App {
 
         System.out.println("Navegador----------");
         iPhone.exibirPagina("www.google.com");
-        iPhone.actualizarPagina();
+        iPhone.atualizarPagina();
         iPhone.adicionarNovaAba();
     }
 }
