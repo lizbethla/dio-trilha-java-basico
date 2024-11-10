@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-banco-digital-oo/desafio-banco-digital-oo.iml" filepath="$PROJECT_DIR$/desafio-banco-digital-oo/desafio-banco-digital-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-bootcamp-dio-oo/desafio-bootcamp-dio-oo.iml" filepath="$PROJECT_DIR$/desafio-bootcamp-dio-oo/desafio-bootcamp-dio-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+    </modules>
+  </component>
+</project>
